@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:36.837744
+#+DATE: 2015-08-30 20:21:39.556852
 #+TITLE: 佛昇忉利天為母說法經
 #+PROPERTY: CBETA_ID T17n0815
 #+PROPERTY: ID KR6i0521
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 815
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0521_T_001-0787b> 
 #+PROPERTY: JUAN 1
 ¶
-No.815[No.816]¶
-
- 《佛昇忉利天為母說法經》卷上¶
+No. 815 [No. 816]¶
+《佛昇忉利天為母說法經》卷上¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -858,8 +857,7 @@ No.815[No.816]¶
 空；空不見空，亦無所知亦無所觀，悉為本淨，¶
 無明故起。
 
-「是以，天子！法者無法，諸法自然住¶
-立，諸法憺怕。其憺怕法則無有二；其無二者
+「是以，天子！法者無法，諸法自然住立，諸法憺怕。其憺怕法則無有二；其無二者
 <pb:KR6i0521_T_001-0792b>¶
 則無凡夫，亦無聲聞亦無緣覺，平等佛道，亦¶
 無所教深妙之行為菩薩行。菩薩深修分別¶
