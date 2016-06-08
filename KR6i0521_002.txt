@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:38.624993
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:50
 #+TITLE: 佛昇忉利天為母說法經
 #+PROPERTY: CBETA_ID T17n0815
 #+PROPERTY: ID KR6i0521
