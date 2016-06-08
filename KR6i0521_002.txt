@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:21:36.873048
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:50
 #+TITLE: 佛昇忉利天為母說法經
 #+PROPERTY: CBETA_ID T17n0815
 #+PROPERTY: ID KR6i0521
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 815
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0521_T_002-0792b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛昇忉利天為母說法經》卷中¶
+《佛昇忉利天為母說法經》卷中¶
 ¶
 西晉月氏三藏竺法護譯¶
 
@@ -120,7 +119,7 @@
 然有華，自昔未有。各取此華供養如來，應時¶
 彼華普悉遍布忉利天上。¶
 
-爾時，天帝前白佛言：「吾未會見如此輩華族¶
+爾時，天帝前白佛言：「吾未曾見如此輩華族¶
 姓子等，奉如來者。」
 
 月氏天子報天帝釋：「拘翼！¶
@@ -377,7 +376,7 @@
 
 答曰：「天子！假使行者不上不下、不處¶
 中間，不著所行、不有所作；有所行者而無所¶
-造，是菩薩行。不作斯念：『是為尊法、此卑賤法。』¶
+造，是菩薩行。其作斯念：『是為尊法、此卑賤法。』¶
 於斯諸法，曉了平等，不為二念。如是行者謂¶
 逮平等。」
 
